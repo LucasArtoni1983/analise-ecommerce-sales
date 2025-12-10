@@ -1,6 +1,6 @@
 # 🛒 Análise Exploratória de Vendas E-commerce
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cguTMrwPlsA5jDsAIJ7pjdJMsuQS9Upi?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1puTAJay6lyvrPDa_gCWFI-rmoN3pqMWQ#scrollTo=X5yDDgxMonYB)
 
 Projeto de análise exploratória de dados (EDA) aplicado a um dataset de e-commerce internacional, utilizando Python e bibliotecas de análise de dados para extrair insights sobre comportamento de compra, performance de produtos e tendências de vendas.
 
