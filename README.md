@@ -159,13 +159,10 @@ analise-ecommerce-sales/
 ├── Analise_Ecommerce_Sales.ipynb # Notebook principal com análises
 ├── README.md # Este arquivo
 ├── dados/ # (Opcional) Dados utilizados
-│ └── Online_Retail.xlsx
+│
 └── imagens/ # Prints dos gráficos
-├── top-produtos.png
-├── receita-pais.png
-└── evolucao-vendas.png
-
-text
+ ├── top-produtos.png
+ |── evolucao-vendas.png
 
 ---
 
