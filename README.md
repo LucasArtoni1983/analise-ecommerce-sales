@@ -1,4 +1,4 @@
-# 🛒 Análise Exploratória de Vendas E-commerce
+# Análise Exploratória de Vendas E-commerce
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1puTAJay6lyvrPDa_gCWFI-rmoN3pqMWQ#scrollTo=X5yDDgxMonYB)
 
@@ -11,7 +11,7 @@ Projeto de análise exploratória de dados (EDA) aplicado a um dataset de e-comm
 
 ---
 
-## 📊 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto realiza uma análise completa de dados de vendas de uma loja online internacional, com foco em:
 
@@ -23,7 +23,7 @@ Este projeto realiza uma análise completa de dados de vendas de uma loja online
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Aplicar técnicas de **Análise Exploratória de Dados (EDA)** em dataset real
 - Identificar **padrões e tendências** de vendas ao longo do tempo
@@ -32,7 +32,7 @@ Este projeto realiza uma análise completa de dados de vendas de uma loja online
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **Fonte:** [UCI Machine Learning Repository - Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
 - **Período:** Dezembro/2010 a Dezembro/2011
@@ -49,7 +49,7 @@ Este projeto realiza uma análise completa de dados de vendas de uma loja online
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Python 3.8+**
 - **Pandas** - Manipulação e análise de dados
@@ -58,43 +58,43 @@ Este projeto realiza uma análise completa de dados de vendas de uma loja online
 - **Seaborn** - Visualizações estatísticas avançadas
 ---
 
-## 📈 Análises Realizadas
+## Análises Realizadas
 
-### 1️⃣ **Limpeza e Tratamento de Dados**
+### 1️ **Limpeza e Tratamento de Dados**
 - Remoção de valores nulos e duplicados
 - Tratamento de transações canceladas
 - Criação de coluna de receita total (`Quantity × UnitPrice`)
 - Extração de features temporais (ano, mês, dia da semana)
 
-### 2️⃣ **KPIs Principais**
+### 2️ **KPIs Principais**
 - **Receita Total:** £X milhões
 - **Ticket Médio:** £X
 - **Total de Transações:** X mil
 - **Total de Clientes:** X mil
 - **Total de Produtos:** X mil SKUs
 
-### 3️⃣ **Top Produtos Mais Vendidos**
+### 3️ **Top Produtos Mais Vendidos**
 - Identificação dos 10 produtos com maior volume de vendas
 - Análise de categorias mais populares
 
-### 4️⃣ **Análise Geográfica**
+### 4️ **Análise Geográfica**
 - Receita por país (Top 10)
 - Reino Unido representa ~85% da receita total
 - Oportunidades de expansão internacional
 
-### 5️⃣ **Análise Temporal**
+### 5️ **Análise Temporal**
 - Evolução mensal de vendas (sazonalidade)
 - Vendas por dia da semana
 - Identificação de períodos de pico (Black Friday, Natal)
 
-### 6️⃣ **Distribuição de Valores**
+### 6️ **Distribuição de Valores**
 - Análise de ticket médio
 - Identificação de outliers
 - Padrões de comportamento de compra
 
 ---
 
-## 📊 Principais Visualizações
+## Principais Visualizações
 
 O notebook inclui:
 
@@ -107,9 +107,9 @@ O notebook inclui:
 
 ---
 
-## 💡 Principais Insights
+## Principais Insights
 
-### 🔍 Descobertas
+### Descobertas
 
 1. **Concentração geográfica:** Reino Unido domina 85%+ das vendas
 2. **Sazonalidade:** Pico de vendas em novembro/dezembro (Black Friday e Natal)
@@ -117,7 +117,7 @@ O notebook inclui:
 4. **Dias úteis performam melhor:** Quinta-feira é o dia com maior receita
 5. **Ticket médio:** Maioria das transações abaixo de £100
 
-### 💼 Recomendações
+### Recomendações
 
 - **Intensificar marketing sazonal** em out/nov/dez
 - **Expandir operações internacionais** (foco em países europeus)
@@ -126,7 +126,7 @@ O notebook inclui:
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### **Opção 1: Google Colab (Recomendado)**
 
@@ -152,7 +152,7 @@ text
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 analise-ecommerce-sales/
 │
@@ -166,7 +166,7 @@ analise-ecommerce-sales/
 
 ---
 
-## 📸 Preview dos Resultados
+## Preview dos Resultados
 
 <!-- Adicione prints dos gráficos aqui quando tiver -->
 
@@ -178,7 +178,7 @@ analise-ecommerce-sales/
 
 ---
 
-## 🎓 Aprendizados
+## Aprendizados
 
 Este projeto permitiu desenvolver e aplicar:
 
@@ -190,7 +190,7 @@ Este projeto permitiu desenvolver e aplicar:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Lucas Artoni Alves**  
 Analista de Dados Júnior
@@ -201,13 +201,13 @@ Analista de Dados Júnior
 
 ---
 
-## 📝 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-## 🔗 Referências
+## Referências
 
 - [Dataset Original - UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
 - [Documentação Pandas](https://pandas.pydata.org/docs/)
@@ -216,4 +216,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-⭐ **Se este projeto foi útil, deixe uma estrela!** ⭐
+**Se este projeto foi útil, deixe uma estrela!**
