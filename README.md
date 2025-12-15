@@ -60,34 +60,34 @@ Este projeto realiza uma análise completa de dados de vendas de uma loja online
 
 ## Análises Realizadas
 
-### 1️ **Limpeza e Tratamento de Dados**
+### 1️ - **Limpeza e Tratamento de Dados**
 - Remoção de valores nulos e duplicados
 - Tratamento de transações canceladas
 - Criação de coluna de receita total (`Quantity × UnitPrice`)
 - Extração de features temporais (ano, mês, dia da semana)
 
-### 2️ **KPIs Principais**
-- **Receita Total:** £X milhões
-- **Ticket Médio:** £X
-- **Total de Transações:** X mil
-- **Total de Clientes:** X mil
-- **Total de Produtos:** X mil SKUs
+### 2️ - **KPIs Principais**
+- **Receita Total:** £10 milhões
+- **Ticket Médio:** £20,12
+- **Total de Transações:** 19,960 mil
+- **Total de Clientes:** 4,388 mil
+- **Total de Produtos:** 3,922 mil SKUs
 
-### 3️ **Top Produtos Mais Vendidos**
+### 3️ - **Top Produtos Mais Vendidos**
 - Identificação dos 10 produtos com maior volume de vendas
 - Análise de categorias mais populares
 
-### 4️ **Análise Geográfica**
+### 4️ - **Análise Geográfica**
 - Receita por país (Top 10)
 - Reino Unido representa ~85% da receita total
 - Oportunidades de expansão internacional
 
-### 5️ **Análise Temporal**
+### 5️ - **Análise Temporal**
 - Evolução mensal de vendas (sazonalidade)
 - Vendas por dia da semana
 - Identificação de períodos de pico (Black Friday, Natal)
 
-### 6️ **Distribuição de Valores**
+### 6️ - **Distribuição de Valores**
 - Análise de ticket médio
 - Identificação de outliers
 - Padrões de comportamento de compra
