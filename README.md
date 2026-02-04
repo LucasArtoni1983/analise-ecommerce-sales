@@ -196,7 +196,7 @@ Este projeto permitiu desenvolver e aplicar:
 Analista de Dados Júnior
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Artoni-blue?style=flat&logo=linkedin)](https://linkedin.com/in/LucasArtoniAlves)
-[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-black?style=flat&logo=github)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-black?style=flat&logo=github)](https://github.com/LucasArtoni1983)
 [![Email](https://img.shields.io/badge/Email-lucas.artoni84%40gmail.com-red?style=flat&logo=gmail)](mailto:lucas.artoni84@gmail.com)
 
 ---
